@@ -1,11 +1,17 @@
 •	👋 Hi, I’m Manish Singh Bisht
+
 •	👀 I’m interested in web development and new technologies
+
 •	 🎯Skills HTML,CSS  , JAVASCRIPT , EXPRESS.JS , NODE.JS , MANGODB , JAVA
+
 •	🌱 I’m currently learning the MERN stack
+
 •	💞️ I’m looking to collaborate on anything exciting and innovative
+
 •	🌐 Linkdin ID [https://www.linkedin.com/in/manish-singh-bisht-862b6829b/]
+
 •	📫 How to reach me: via Gmail[bishtmanish195@gmail.com]
-•	😄 Pronouns: [he/him]
+
 
 <!---
 ManishBisht17/ManishBisht17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
