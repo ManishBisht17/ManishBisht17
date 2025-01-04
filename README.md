@@ -1,4 +1,4 @@
-•	👋 Hi, I’m Manish Singh Bisht
+•	👋 Hi, I’m Manish Singh Bisht(portfolio=> https://manishportfolio17.vercel.app/)
 
 •	👀 I’m interested in web development and new technologies
 
@@ -10,7 +10,7 @@
 
 •	🌐 Linkdin ID [https://www.linkedin.com/in/manish-singh-bisht-862b6829b/]
 
-•	📫 How to reach me: via Gmail[bishtmanish195@gmail.com]
+•	📫 How to reach me: via Gmail[manishsinghbisht17@gmail.com]
 
 
 <!---
