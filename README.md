@@ -2,7 +2,7 @@
 
 •	👀 I’m interested in web development and new technologies
 
-•	 🎯Skills [HTML , CSS  , JAVASCRIPT , EXPRESS.JS , NODE.JS , MANGODB , JAVA]
+•	 🎯Skills [HTML , CSS  , JAVASCRIPT , NODE.JS , EXPRESS.JS , MANGODB , JAVA, DSA]
 
 •	🌱 I’m currently learning the MERN stack
 
