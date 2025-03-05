@@ -4,8 +4,6 @@
 
 •	 🎯Skills [HTML , CSS  , JAVASCRIPT , NODE.JS , EXPRESS.JS , MANGODB , JAVA, DSA]
 
-•	🌱 I’m currently learning the MERN stack
-
 •	💞️ I’m looking to collaborate on anything exciting and innovative
 
 •	🌐 Linkdin ID [https://www.linkedin.com/in/manish-singh-bisht-862b6829b/]
