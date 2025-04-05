@@ -39,5 +39,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBisht17&layout=compact&theme=radical)
 
 ---
+🧠 LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/ManishBisht17/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ManishBisht17?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ### 💭 "The best way to predict the future is to invent it."
