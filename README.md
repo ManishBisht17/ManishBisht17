@@ -1,9 +1,9 @@
-# Manish Singh Bisht | Full Stack Developer
+# Manish Singh Bisht | Software Developer
 
 👋 **Hello, I'm Manish** - a passionate web developer focused on creating innovative solutions.
 
 ## About Me
-- 💻 Full Stack Developer with expertise in modern web technologies
+- 💻 Software Developer with expertise in modern web technologies
 - 🚀 Building responsive, scalable, and user-friendly applications
 - 🌱 Constantly learning and exploring new technologies
 - 💡 Seeking exciting collaboration opportunities
