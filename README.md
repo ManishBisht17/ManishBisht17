@@ -1,4 +1,4 @@
-# Manish Singh Bisht | Software Developer
+# Manish Singh Bisht | SDE 
 
 👋 **Hello, I'm Manish** - a passionate web developer focused on creating innovative solutions.
 
